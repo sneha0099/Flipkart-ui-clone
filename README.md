@@ -1,0 +1,1 @@
+i have builded flipkart-clone from scratch using HTML and CSS.
